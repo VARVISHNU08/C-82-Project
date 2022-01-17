@@ -1,0 +1,16 @@
+body{
+    background-image: url("bg1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+button{
+    background-color: green;
+}
+
+canvas{
+    background-color: whitesmoke;
+    border-width: 10px;
+    border-style: ridge;
+    border-color: black;
+}
